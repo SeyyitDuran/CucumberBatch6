@@ -1,0 +1,19 @@
+Test Driven Development TDD cycle, Write a test that fails - Make the code work - Refactor(improve, eliminate redundancy)
+Problems of TDD collaborations, we can't trust to developers
+
+Behaviour Driven Development BDD, with organized meetings it fix the collaborations problem/
+3 Amigos structure CukesRunner/step_definitions/features
+for BDD steps there is no limitation but must be less code more readability, feature file power and documentation
+
+We can create framework from scratch
+with Gherkin language write features to more understandable - keys sensitive(not for method names)
+go to runner create class CukesRunner than after execution copy and paste
+for get step glue="with package path"
+
+on the features we don't need to create method for same step - Reusability
+
+advantages : Intuitive Way to Express Requirements in Human-Readable Form. ...
+             Translating Business Requirements into Testable Scenarios. ...
+             Multi-language Support. ...
+             The Role of Cucumber in Agile Projects. ...
+             The Facility of Code Reusability.
