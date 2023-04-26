@@ -11,7 +11,7 @@ Feature: Dashboard Menu Page
       | All Posts  |
       | My Account |
     #if new features will add |Contact Us|
-
+@smoke
   Scenario: The user should be able to see Dashboard menu after login
     Given The user is on the login page
 #    When The user logs in using "eurotech@gmail.com" and "Test12345!" credentials

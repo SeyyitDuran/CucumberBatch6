@@ -1,6 +1,6 @@
 Feature: Login as different users
 
-
+@smoke
   Scenario: Login as student
 
     Given The user is on the login page

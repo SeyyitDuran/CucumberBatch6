@@ -14,7 +14,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/Features",//login.feature path
         glue = "com/eurotech/step_definitions",
         dryRun = false,//if I write true I won't see the definitions of steps
-        tags = "@wip"
+        tags = "@Developer"
         /*  @Student key sensitive
             after tagged scenarios if ı need to run all of them, @login first tag
             for run one scenario @smoke and @teacher

@@ -4,7 +4,7 @@ import com.eurotech.utilities.ConfigurationReader;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class LoginPage extends BasePage {//finfd it
+public class LoginPage extends BasePage {
 
 //    public LoginPage() {
 //        PageFactory.initElements(Driver.get(), this);//special constructor, like register, main etc.
